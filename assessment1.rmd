@@ -13,17 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # RMarkdown editing
 
-3. Write 2-3 sentences about RMarkdown (you can google this information or use resources recommended in class - no need to reference)
+3. Write 2-3 sentences about RMarkdown (you can google this information or use resources recommended in class - no need to reference).
 
+R Markdown is a [.Rmd] file with records of one's research. It uses multiple languages including R, Python and SQL.
 
-This is a sentence. ***Now*** write your 2-3 *sentences* about **RMarkdown.**
+R Markdown documents are fully reproducible.  The code and command in a R Markdown file enables the researcher to reproduce his work and export the results at the click of a button.   
+
+R Markdown uses dynamic documents that allows  researchers to export finished reports in a productive notebook interface where narrative text are weaved together to produce elegantly formatted output (eg. analysis,narration, reports, presentations and dashboards) in pdf, MS Word, or RTF documents; html, slides, Notebooks for readers and end users.
 
 4. In the above use bold and italics for editing.
+
+**R Markdown** is a ***[.Rmd] file*** with records of one's research. *It uses multiple languages including R, Python and SQL.*
+
+**R Markdown** documents are ***fully reproducible.***  The ***code and command*** in a R Markdown file enables the researcher to *reproduce his work and export the results at the click of a button.*   
+
+**R Markdown** uses ***dynamic documents*** that *allows  researchers to export finished reports in a productive notebook interface* where narrative text are weaved together to produce elegantly formatted output (eg. analysis,narration, reports, presentations and dashboards) in pdf, MS Word, or RTF documents; html, slides, Notebooks for readers and end users.
 
 5. Review the suggested documentation on how to insert links in the .rmd file and include an in-text link to https://rmarkdown.rstudio.com/lesson-8.html
 
 [Link to Rmarkdown Rstudio](https://rmarkdown.rstudio.com/lesson-8.html)
-
 
 6. Insert an R chunk and create a variable with this dataset
 https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-09-04/fastfood_calories.csv
